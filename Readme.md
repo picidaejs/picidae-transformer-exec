@@ -20,7 +20,7 @@ abc
 - env: {Object} (default: `{}`)  
   The additional env, like `process.env`
 
-- paths: {array} (default: `[]`)
+- paths: {array} (default: `[]`)  
   same as `$PATH`, and it would appends the `node_modules/.bin` to `$PATH` automatically.
   
 - cwd: {string} (default: `'curr'`)  
